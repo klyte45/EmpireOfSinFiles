@@ -1,7 +1,7 @@
 # Instalação da tradução para Português do Brasil do Empire of Sin
 
 1. Baixar o arquivo ***GameData_ru.json***
-1. Sobreponha o arquivo de mesmo nome na pasta de instalação do jogo (Caminho: *[Pasta de instalação do EmpireOfSin]\EmpireOfSin_Data\StreamingAssets\GameData_Win64~\Localization*)
+1. Sobrescreva o arquivo de mesmo nome na pasta de instalação do jogo (Caminho: *[Pasta de instalação do EmpireOfSin]\EmpireOfSin_Data\StreamingAssets\GameData_Win64~\Localization*)
 1. Para ativar no jogo, coloque a linguagem do jogo para **Russo**, e o jogo estará em Português
 
 ## Observações
