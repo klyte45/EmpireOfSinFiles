@@ -6,7 +6,7 @@
 
 ## Observações
 - A tradução não deve estar perfeita ainda já que são mais de 39 mil entradas de texto. Caso ache algum problema, abra um Issue neste projeto.
-- A versão da tradução está relacionada a versão do jogo de **9 de dezembro de 2020**.
+- A versão da tradução está relacionada a versão**1.03**  do jogo de **8 de fevereiro de 2021**.
 - A fonte do jogo não tem suporte ao acento til (ã e õ), foi usado o trema no lugar (ä e ö).
 
 Divirtam-se!
